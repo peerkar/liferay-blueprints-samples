@@ -2,3 +2,8 @@
 .sass-cache/
 build/
 target/
+bin/
+classes/
+.project
+.settings/
+.classpath
