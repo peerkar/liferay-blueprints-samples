@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test,testIntegration"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/main" kind="src" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test,testIntegration"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="src" path="/asset-api"/>
+	<classpathentry kind="src" path="/asset-taglib"/>
+	<classpathentry kind="src" path="/commerce-product-api"/>
+	<classpathentry kind="src" path="/commerce-product-content-api"/>
+	<classpathentry kind="src" path="/frontend-taglib"/>
+	<classpathentry kind="src" path="/frontend-taglib-clay"/>
+	<classpathentry kind="src" path="/info-api"/>
+	<classpathentry kind="src" path="/journal-api"/>
+	<classpathentry kind="src" path="/portal-search-api"/>
+	<classpathentry kind="src" path="/portal-search-engine-adapter-api"/>
+	<classpathentry kind="src" path="/petra-function"/>
+	<classpathentry kind="src" path="/petra-lang"/>
+	<classpathentry kind="src" path="/petra-string"/>
+	<classpathentry kind="src" path="/search-experiences-blueprints-api"/>
+	<classpathentry kind="src" path="/search-experiences-blueprints-engine-api"/>
+	<classpathentry kind="src" path="/search-experiences-blueprints-util"/>
+	<classpathentry kind="src" path="/search-experiences-lang"/>
+	<classpathentry kind="src" path="/search-experiences-searchresponse-json-translator-api"/>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/biz.aQute.bnd/biz.aQute.bndlib/3.1.0/58ab3de3dac4f7cfd835a711158d8ef7dfa2b872/biz.aQute.bndlib-3.1.0-sources.jar" kind="lib" path="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/biz.aQute.bnd/biz.aQute.bndlib/3.1.0/8e45564ca80bf089276a35f916e8702e7b798cbb/biz.aQute.bndlib-3.1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.m2/com/liferay/portal/com.liferay.portal.kernel/12.2.2-SNAPSHOT/com.liferay.portal.kernel-12.2.2-SNAPSHOT-sources.jar" kind="lib" path="/opt/git/liferay-portal/.m2/com/liferay/portal/com.liferay.portal.kernel/12.2.2-SNAPSHOT/com.liferay.portal.kernel-12.2.2-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.m2/com/liferay/portal/com.liferay.util.java/6.0.5-SNAPSHOT/com.liferay.util.java-6.0.5-SNAPSHOT-sources.jar" kind="lib" path="/opt/git/liferay-portal/.m2/com/liferay/portal/com.liferay.util.java/6.0.5-SNAPSHOT/com.liferay.util.java-6.0.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.m2/com/liferay/portal/com.liferay.util.taglib/8.0.2-SNAPSHOT/com.liferay.util.taglib-8.0.2-SNAPSHOT-sources.jar" kind="lib" path="/opt/git/liferay-portal/.m2/com/liferay/portal/com.liferay.util.taglib/8.0.2-SNAPSHOT/com.liferay.util.taglib-8.0.2-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/javax.portlet/portlet-api/3.0.1/b6162ea35c99090f5eefb99936477df5f1cc7513/portlet-api-3.0.1-sources.jar" kind="lib" path="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/javax.portlet/portlet-api/3.0.1/700cf73d7fdc71780dac9ee13e0eb903e2636346/portlet-api-3.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp/javax.servlet.jsp-api/2.3.1/5aa9e2bf86d7a7d56cc24690b87ff29c1a1d2245/javax.servlet.jsp-api-2.3.1-sources.jar" kind="lib" path="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp/javax.servlet.jsp-api/2.3.1/95c630902565feda8155eb32d46064ef348435fc/javax.servlet.jsp-api-2.3.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.servlet-api/1.1.2/415aad6a8c35ef3216464ad2fe09213e0d0faa21/org.apache.felix.http.servlet-api-1.1.2-sources.jar" kind="lib" path="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/org.apache.felix/org.apache.felix.http.servlet-api/1.1.2/729b198186769f214c66b320e76f72e53a3ce67d/org.apache.felix.http.servlet-api-1.1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.service.component.annotations/1.3.0/987e7f0748a883a66952dc6cc5fefd6e97ab7f84/org.osgi.service.component.annotations-1.3.0-sources.jar" kind="lib" path="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.service.component.annotations/1.3.0/ef17ec0e7f73cd144599da108d72a24285d1f5d5/org.osgi.service.component.annotations-1.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/org.osgi/osgi.core/6.0.0/921a11d64e9a5e6fb04f99a006a3b4b9773f44b8/osgi.core-6.0.0-sources.jar" kind="lib" path="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/org.osgi/osgi.core/6.0.0/c49acdc9ac62cf69ee49cb6f1905b4fdb79ea5c/osgi.core-6.0.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/javax.enterprise/cdi-api/1.2/4cab20de4e3b6796a814e9173d165ba2a177d001/cdi-api-1.2-sources.jar" kind="lib" path="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/javax.enterprise/cdi-api/1.2/53bba91dc3968adf411e076df020cf207283d7dc/cdi-api-1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-servlet-api/8.0.9/16662ac51a76e3f9f7b810f1dd5efed89dfd4534/tomcat-servlet-api-8.0.9-sources.jar" kind="lib" path="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-servlet-api/8.0.9/ddc6b1d06f854bc44fab0cba47cb708c030664c/tomcat-servlet-api-8.0.9.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/javax.el/javax.el-api/3.0.0/47e51cd2f414ff54840b250985c3bce6f6e9d389/javax.el-api-3.0.0-sources.jar" kind="lib" path="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/javax.el/javax.el-api/3.0.0/60a59edc89f93d57541da31ee1c83428ab1cdcb3/javax.el-api-3.0.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/javax.interceptor/javax.interceptor-api/1.2/8f4532cfd20c53e5fb482fa263c29d26c7ff1777/javax.interceptor-api-1.2-sources.jar" kind="lib" path="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/javax.interceptor/javax.interceptor-api/1.2/a5c058610aebacc1eb89c89e8fde2a978090e374/javax.interceptor-api-1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar" kind="lib" path="/opt/git/liferay-portal/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+</classpath>
